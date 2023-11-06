@@ -17,3 +17,10 @@ step`4a`: git remote add (your remote name) (url you copied )
 
 * step `5 ` : git commit -m "your message"
 * step `6`  : git push origin (branch name)
+
+
+
+
+
+# For updating your code in github repeat step :  4,5,6 in your terminal.
+
